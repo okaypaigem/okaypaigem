@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okaypaigem
-- 👀 I’m interested in Information Science, Biodiversity, and Ecological Informatics
-- 🌱 I’m currently learning Data Analytics, Databases, and Coding!
+- 👀 I’m interested in Information Science & Biodiversity/Ecological Informatics
+- 🌱 I’m currently learning Data Analytics, Databases, & Coding!
 - 😄 Pronouns: she/her/ella
 
 <!---
