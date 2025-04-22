@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @okaypaigem
-- 👀 I’m interested in Information Science & Biodiversity/Ecological Informatics
+- 👀 I’m interested in Musical Data Analytics & Biodiversity/Ecological Informatics
 - 🌱 I’m currently learning Data Analytics, Databases, & Coding!
 - 😄 Pronouns: she/her/ella
 
